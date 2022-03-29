@@ -39,7 +39,7 @@ Django REST Framework y React.
 2. Si no tienes instalado "npm", dentro de la carpeta "frontend", elimina el archivo "yarn.lock" y ejecuta "npm install".
 3. Ejecuta "yarn run start" o "npm run start".
 4. Debes asegurarte de que el servidor de la API esté corriendo en el puerto "8000". Ahora ve a htttp://localhost:3000/ para ver la aplicación.
-5. Registra una cuenta o inicia sesión con el usuario "chinchilla" y la contraseña "contraseña123456".
+5. Registra una cuenta e inicia sesión.
    <br>
    <br>
 
