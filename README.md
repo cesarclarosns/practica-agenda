@@ -16,7 +16,7 @@ Django REST Framework y React.
 <br>
 <br>
 
-## Detalles sobre la aplicación.
+## Detalles sobre la aplicación
 
 1. Para ver los cambios realizados es necesario actualizar la página (al agregar contactos, eliminarlos, etc.).
 2. Falta agregar validación de los formularios en el frontend.
