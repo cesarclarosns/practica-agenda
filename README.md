@@ -31,7 +31,7 @@ Django REST Framework y React.
 1. Tener instalada una versión de "python3.8" y "pipenv".
 2. En la carpeta "backend" ejecutar "pipenv install" para instalar todas las dependencias y subdepencias usando el archivo "Pipfile.lock".
 3. Si el "ambiente virtual" no inicio automáticamente puedes iniciarlo ejecutando "pipenv shell".
-4. Ejecuta "python manage.py runserver" para correr el servidor, el cual debe estar corriendo en el puerto "8000".
+4. Ejecuta "python manage.py makemigrations", "python manage.py migrate" y "python manage.py runserver" en order para iniciar el servidor.
 
 ### Iniciar el frontend
 
